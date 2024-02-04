@@ -1,16 +1,27 @@
-### Hi there 👋
+# Hello, I'm [Your Name]! 👋
 
-<!--
-**MarcosCosta-dv/MarcosCosta-dv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+- 👩‍💻 Software Developer
+- 🌱 Always learning
+- 🚀 Passionate about technology
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Languages and Tools
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+
+## Featured Projects
+
+- [Project 1](project-1-link)
+- [Project 2](project-2-link)
+
+## Contact
+
+- [LinkedIn](https://www.linkedin.com/in/your-username/)
+- [Twitter](https://twitter.com/your-username)
+- [Website/Blog](https://yourwebsite.com)
+
