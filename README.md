@@ -17,8 +17,9 @@
 ## Projetos em Destaque
 
 - [Projeto 1](https://github.com/MarcosCosta-dv/Spotify-clone)
-- [Projeto 2]()
+- [Projeto 2](https://github.com/MarcosCosta-dv/eduqui)
+- [Projeto 3](https://github.com/MarcelloMeirelles/projeto_A3_usjt)
 
 ## Contato
 
-- [LinkedIn](https://www.linkedin.com/in/MarcosCosta-dv/)
+- [LinkedIn](https://www.linkedin.com/in/marcosscosta/)
