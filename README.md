@@ -1,4 +1,4 @@
-# Hello, I'm [Your Name]! 👋
+# Hello, I'm Marcos Vinícius! 👋
 
 ## About Me
 
@@ -12,12 +12,12 @@
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?MarcosCosta-dv)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Featured Projects
 
-- [Project 1](project-1-link)
-- [Project 2](project-2-link)
+- [Project 1](https://github.com/MarcosCosta-dv/Spotify-clone)
+- [Project 2]()
 
 ## Contact
 
