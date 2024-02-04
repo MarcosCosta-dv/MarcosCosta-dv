@@ -1,27 +1,24 @@
-# Hello, I'm Marcos Vinícius! 👋
+# Olá, eu sou o Marcos Vinícius! 👋
 
-## About Me
+## Sobre Mim
 
-- 👩‍💻 Software Developer
-- 🌱 Always learning
-- 🚀 Passionate about technology
+- 👩‍💻 Desenvolvedor de Software
+- 🌱 Sempre aprendendo
+- 🚀 Apaixonado por tecnologia
 
-## Languages and Tools
+## Linguagens e Ferramentas
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?MarcosCosta-dv&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Principais Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosCosta-dv&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-## GitHub Stats
+## Estatísticas no GitHub
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?MarcosCosta-dv)](https://github.com/anuraghazra/github-readme-stats)
+[![Estatísticas no GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=MarcosCosta-dv)](https://github.com/anuraghazra/github-readme-stats)
 
-## Featured Projects
+## Projetos em Destaque
 
-- [Project 1](https://github.com/MarcosCosta-dv/Spotify-clone)
-- [Project 2]()
+- [Projeto 1](https://github.com/MarcosCosta-dv/Spotify-clone)
+- [Projeto 2]()
 
-## Contact
+## Contato
 
-- [LinkedIn](https://www.linkedin.com/in/your-username/)
-- [Twitter](https://twitter.com/your-username)
-- [Website/Blog](https://yourwebsite.com)
-
+- [LinkedIn](https://www.linkedin.com/in/MarcosCosta-dv/)
