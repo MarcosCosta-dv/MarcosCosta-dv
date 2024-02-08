@@ -1,25 +1,25 @@
-# Olá, eu sou o Marcos Vinícius! 👋
+# Hello, I am Marcos Vinícius! 👋
 
-## Sobre Mim
+## About Me
 
-- 👩‍💻 Desenvolvedor de Software
-- 🌱 Sempre aprendendo
-- 🚀 Apaixonado por tecnologia
+- 👩‍💻 Software Developer
+- 🌱 Always learning
+- 🚀 Passionate about technology
 
-## Linguagens e Ferramentas
+## Languages and Tools
 
-[![Principais Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosCosta-dv&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosCosta-dv&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-## Estatísticas no GitHub
+## GitHub Statistics
 
-[![Estatísticas no GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=MarcosCosta-dv)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MarcosCosta-dv)](https://github.com/anuraghazra/github-readme-stats)
 
-## Projetos em Destaque
+## Featured Projects
 
-- [Projeto 1](https://github.com/MarcosCosta-dv/Spotify-clone)
-- [Projeto 2](https://github.com/MarcosCosta-dv/eduqui)
-- [Projeto 3](https://github.com/MarcelloMeirelles/projeto_A3_usjt)
+- [Project 1](https://github.com/MarcosCosta-dv/Spotify-clone)
+- [Project 2](https://github.com/MarcosCosta-dv/eduqui)
+- [Project 3](https://github.com/MarcelloMeirelles/projeto_A3_usjt)
 
-## Contato
+## Contact
 
 - [LinkedIn](https://www.linkedin.com/in/marcosscosta/)
